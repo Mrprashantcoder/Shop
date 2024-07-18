@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(199, 199, 199);
+    border-radius: 15px;
+}
+.imgCon{
+    width: 100%;
+    min-height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+}
+.imgCon img{
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+}
